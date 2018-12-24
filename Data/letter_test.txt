@@ -1,0 +1,2 @@
+You are great. 
+Strings often contain characters that represent numbers.
