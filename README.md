@@ -1,4 +1,5 @@
 # cpp_primer_selfstudy_exercise
+Exercise for book C++ Primeer Fifth Edition by Stanley B. Lippman, Josee Lajoie, Barbara E.Moo   
 [Chapter 1: Getting Started](chapter_1)  
 [Chapter 2: The Basic](chapter_2)  
 [Chapter 3: Strings, Vectors, and Arrays](chapter_3)  
