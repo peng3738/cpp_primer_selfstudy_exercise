@@ -10,9 +10,9 @@
 [Chapter 9: Sequential Containers](chapter_9)   
 [Chapter 10: Generic Algorithm](chapter_10)  
 [Chapter 11: Associate Containers](chapter_11)  
-[Chapter 12: Dynamic Memory](chapter_12) 
-[Chapter 13: Copy Control](chapter_13)  
-[Chapter 14: Overloaded Operations and Conversions](chapter_14)    
+[Chapter 12: Dynamic Memory](chapter_12)   
+[Chapter 13: Copy Control](chapter_13)    
+[Chapter 14: Overloaded Operations and Conversions](chapter_14)     
 [Chapter 15: Object-Oriented Programming](chapter_15)  
 [Chapter 16:Templates and Generic Programming](chapter_16)  
 
